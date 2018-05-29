@@ -1,4 +1,4 @@
-package me.yorick.rabbitmq.exclusivequeue;
+package me.yorick.rabbitmq.exclusive;
 
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;
