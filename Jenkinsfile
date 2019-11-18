@@ -1,4 +1,4 @@
-pipleline{
+pipeline{
     agent{
         docker{
             image 'gradle:6.0.0-jdk8'
